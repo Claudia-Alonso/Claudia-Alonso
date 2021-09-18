@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Claudia-Alonso
-- 👀 I’m interested in learning as much as possible!
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 👋  Hi, I’m @Claudia-Alonso
+- 👀 I’m interested in learning as much as possible! Currently, very interested in building some machine learning applications so watch out for them soon
+- 🌱 I’m currently learning Python as quickly as possible
 - 💞️ I’m looking to collaborate on any fun projects
-- 📫 How to reach me ...
+- 📫 How to reach me alonsovc@tcd.ie
 
 <!---
 Claudia-Alonso/Claudia-Alonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
